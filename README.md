@@ -2,6 +2,10 @@
 
 Pepse is a 2D platformer game developed in Java with DanoGameLab library. It features a day-night cycle, dynamic terrain generation, and interactive flora.
 
+## Media
+
+
+
 ## Features
 
 - Day-night cycle: Experience dynamic lighting changes as you play.
@@ -19,4 +23,4 @@ Contributions are welcome! Feel free to submit bug reports, feature requests, or
 
 ## License
 
-This project is licensed under the MIT License - see the ([LICENSE](https://choosealicense.com/licenses/mit/)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
