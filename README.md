@@ -4,8 +4,8 @@ Pepse is a 2D platformer game developed in Java with DanoGameLab library. It fea
 
 ## Media
 
-<img src="Readmepics/readmeImg1.png" alt="Description of Image" width="600" height="600">
-<img src="Readmepics/readmeImg2.png" alt="Description of Image" width="600" height="600">
+<img src="Readmepics/readmeImg1.png" alt="Description of Image" width="600" height="300">
+<img src="Readmepics/readmeImg2.png" alt="Description of Image" width="600" height="300">
 
 
 ## Features
