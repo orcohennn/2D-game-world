@@ -9,3 +9,23 @@ To run the game locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/username/pepse.git
+
+
+## Features
+
+- Day-night cycle: Experience dynamic lighting changes as you play.
+- Terrain generation: Explore procedurally generated terrain.
+- Flora interaction: Jump on trees to gain energy and interact with the environment.
+
+## Usage
+
+- Use the arrow keys for movement.
+- Press the space bar to jump.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve Pepse.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
